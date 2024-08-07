@@ -1,4 +1,4 @@
-#Movie application
+# Movie application
 
 I used the [TMDB API](https://www.themoviedb.org/) to develop Movix, a web app that allows users to search and explore movies and TV shows. Users can filter content by category, sort by popularity, rating, and more. Additionally, they can watch trailers and discover top casts, similar TV shows, and recommendations.
 
